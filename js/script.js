@@ -184,6 +184,7 @@ const costumes = [
     ["Mark Zuckerberg", "https://costumewall.com/dress-like-mark-zuckerberg/"],
     ["a stick figure", "https://twitter.com/CarlForrest/status/1050448521353207808"]
     ["a Selfie", "https://twitter.com/hellofelicia14/status/1055155960384290816"]
+    ["a Michael Miller", "https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/08/3a/e1/083ae1448df2793d780e1abe4e512bf9.JPG"]
   ];
 
   //Assign DOM elements
